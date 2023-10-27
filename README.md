@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Next.JS, Auth.JS, TypeScript**
 
-- 📝 I regularly write articles on [https://kevinweiyenhe.com](https://kevinweiyenhe.com)
+- 📝 I write sometimes on [https://kevinweiyenhe.com](https://kevinweiyenhe.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
